@@ -1,0 +1,7 @@
+{
+  "name": "os-meus-livros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
